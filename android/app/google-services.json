@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278343999737",
+    "project_id": "aktivite-dfaf0",
+    "storage_bucket": "aktivite-dfaf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278343999737:android:e3bfe4570def2ed6f40228",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABVEOYV5FbqLYpmEu9STjano3Wh6EqLzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
